@@ -52,3 +52,8 @@ for word in words:
 print('Snowball stems: ', stems)
 
 print('{:d} words were deleted. That accounts for {:.2f}% of the text (exluding punctuation marks).'.format(deleted_words, percentage))
+
+words_and_stems = {}
+for word in words:
+	words_and_stems[word] = porter.stem(word), stemmer.stem(word)
+print('Both(porter and snowball): ', words_and_stems)
