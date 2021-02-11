@@ -1,0 +1,82 @@
+tokens:  ['America', 'is', 'the', 'land', 'of', 'Liberty', '.', 'You', 'can', 'think', 'what', 'you', 'want', 'to', 'think', ',', 'and', 'you', 'can', 'say', 'what', 'you', 'want', 'to', 'say', ';', 'but', 'you', 'can', 'not', 'always', 'do', 'what', 'you', 'want', 'to', 'do', '-', 'without', 'breaking', 'the', 'law.Today', 'you', 'can', 'not', 'use', 'hard', 'drugs', ',', 'because', 'it', 'is', 'against', 'the', 'law', '.', 'The', 'law', 'has', 'decided', 'that', 'drugs', 'are', 'dangerous', ',', 'and', 'most', 'people', 'believe', 'that', 'the', 'law', 'is', 'right', '.', 'Today', ',', 'in', 'many', 'places', ',', 'you', 'can', 'not', 'smoke', 'a', 'cigarette', 'in', 'the', 'street', '.', 'But', 'today', ',', 'you', 'can', 'sit', 'in', 'a', 'bar', 'and', 'drink', 'a', 'beer', '-', 'just', 'as', 'long', 'as', 'you', 'are', 'not', 'below', 'the', 'age', 'limit', ';', 'a', 'hundred', 'years', 'ago', ',', 'you', 'could', 'not', '.', 'America', 'was', 'dry', '.', 'Alcohol', 'was', 'illegal', '.', 'You', 'could', 'neither', 'drink', 'it', 'nor', 'make', 'it', ',', 'nor', 'buy', 'it', ',', 'nor', 'import', 'it', ',', 'nor', 'sell', 'it', '.']
+not stopwords:  ['America', 'land', 'Liberty', '.', 'You', 'think', 'want', 'think', ',', 'say', 'want', 'say', ';', 'always', 'want', '-', 'without', 'breaking', 'law.Today', 'use', 'hard', 'drugs', ',', 'law', '.', 'The', 'law', 'decided', 'drugs', 'dangerous', ',', 'people', 'believe', 'law', 'right', '.', 'Today', ',', 'many', 'places', ',', 'smoke', 'cigarette', 'street', '.', 'But', 'today', ',', 'sit', 'bar', 'drink', 'beer', '-', 'long', 'age', 'limit', ';', 'hundred', 'years', 'ago', ',', 'could', '.', 'America', 'dry', '.', 'Alcohol', 'illegal', '.', 'You', 'could', 'neither', 'drink', 'make', ',', 'buy', ',', 'import', ',', 'sell', '.']
+all words:  ['America', 'is', 'the', 'land', 'of', 'Liberty', 'You', 'can', 'think', 'what', 'you', 'want', 'to', 'think', 'and', 'you', 'can', 'say', 'what', 'you', 'want', 'to', 'say', 'but', 'you', 'can', 'not', 'always', 'do', 'what', 'you', 'want', 'to', 'do', 'without', 'breaking', 'the', 'law.Today', 'you', 'can', 'not', 'use', 'hard', 'drugs', 'because', 'it', 'is', 'against', 'the', 'law', 'The', 'law', 'has', 'decided', 'that', 'drugs', 'are', 'dangerous', 'and', 'most', 'people', 'believe', 'that', 'the', 'law', 'is', 'right', 'Today', 'in', 'many', 'places', 'you', 'can', 'not', 'smoke', 'a', 'cigarette', 'in', 'the', 'street', 'But', 'today', 'you', 'can', 'sit', 'in', 'a', 'bar', 'and', 'drink', 'a', 'beer', 'just', 'as', 'long', 'as', 'you', 'are', 'not', 'below', 'the', 'age', 'limit', 'a', 'hundred', 'years', 'ago', 'you', 'could', 'not', 'America', 'was', 'dry', 'Alcohol', 'was', 'illegal', 'You', 'could', 'neither', 'drink', 'it', 'nor', 'make', 'it', 'nor', 'buy', 'it', 'nor', 'import', 'it', 'nor', 'sell', 'it']
+words that count:  ['America', 'land', 'Liberty', 'You', 'think', 'want', 'think', 'say', 'want', 'say', 'always', 'want', 'without', 'breaking', 'law.Today', 'use', 'hard', 'drugs', 'law', 'The', 'law', 'decided', 'drugs', 'dangerous', 'people', 'believe', 'law', 'right', 'Today', 'many', 'places', 'smoke', 'cigarette', 'street', 'But', 'today', 'sit', 'bar', 'drink', 'beer', 'long', 'age', 'limit', 'hundred', 'years', 'ago', 'could', 'America', 'dry', 'Alcohol', 'illegal', 'You', 'could', 'neither', 'drink', 'make', 'buy', 'import', 'sell']
+sentences:  ['America is the land of Liberty.', 'You can think what you want to think, and you can say what you  want to say; but you cannot always do what you want to do -  without breaking the law.Today you cannot use hard drugs, because it is against the law.', 'The law has decided that drugs are dangerous,  and most people believe that the law is right.', 'Today, in many places, you cannot smoke a cigarette in the street.', 'But today, you can sit in a  bar and drink a beer - just as long as you are not below the age limit;  a hundred years ago, you could not.', 'America was dry.', 'Alcohol was illegal.', 'You could neither drink it nor make it, nor buy it, nor import it, nor sell it.']
+Porter stems:  ['america', 'is', 'the', 'land', 'of', 'liberti', 'you', 'can', 'think', 'what', 'you', 'want', 'to', 'think', 'and', 'you', 'can', 'say', 'what', 'you', 'want', 'to', 'say', 'but', 'you', 'can', 'not', 'alway', 'do', 'what', 'you', 'want', 'to', 'do', 'without', 'break', 'the', 'law.today', 'you', 'can', 'not', 'use', 'hard', 'drug', 'becaus', 'it', 'is', 'against', 'the', 'law', 'the', 'law', 'ha', 'decid', 'that', 'drug', 'are', 'danger', 'and', 'most', 'peopl', 'believ', 'that', 'the', 'law', 'is', 'right', 'today', 'in', 'mani', 'place', 'you', 'can', 'not', 'smoke', 'a', 'cigarett', 'in', 'the', 'street', 'but', 'today', 'you', 'can', 'sit', 'in', 'a', 'bar', 'and', 'drink', 'a', 'beer', 'just', 'as', 'long', 'as', 'you', 'are', 'not', 'below', 'the', 'age', 'limit', 'a', 'hundr', 'year', 'ago', 'you', 'could', 'not', 'america', 'wa', 'dri', 'alcohol', 'wa', 'illeg', 'you', 'could', 'neither', 'drink', 'it', 'nor', 'make', 'it', 'nor', 'buy', 'it', 'nor', 'import', 'it', 'nor', 'sell', 'it']
+Snowball stems:  ['america', 'is', 'the', 'land', 'of', 'liberti', 'you', 'can', 'think', 'what', 'you', 'want', 'to', 'think', 'and', 'you', 'can', 'say', 'what', 'you', 'want', 'to', 'say', 'but', 'you', 'can', 'not', 'alway', 'do', 'what', 'you', 'want', 'to', 'do', 'without', 'break', 'the', 'law.today', 'you', 'can', 'not', 'use', 'hard', 'drug', 'becaus', 'it', 'is', 'against', 'the', 'law', 'the', 'law', 'has', 'decid', 'that', 'drug', 'are', 'danger', 'and', 'most', 'peopl', 'believ', 'that', 'the', 'law', 'is', 'right', 'today', 'in', 'mani', 'place', 'you', 'can', 'not', 'smoke', 'a', 'cigarett', 'in', 'the', 'street', 'but', 'today', 'you', 'can', 'sit', 'in', 'a', 'bar', 'and', 'drink', 'a', 'beer', 'just', 'as', 'long', 'as', 'you', 'are', 'not', 'below', 'the', 'age', 'limit', 'a', 'hundr', 'year', 'ago', 'you', 'could', 'not', 'america', 'was', 'dri', 'alcohol', 'was', 'illeg', 'you', 'could', 'neither', 'drink', 'it', 'nor', 'make', 'it', 'nor', 'buy', 'it', 'nor', 'import', 'it', 'nor', 'sell', 'it']
+74 words were deleted. That accounts for 55.64% of the text (exluding punctuation marks).
+Both (porter and snowball): 
+America: porter -> america, snowball -> america
+is: porter -> is, snowball -> is
+the: porter -> the, snowball -> the
+land: porter -> land, snowball -> land
+of: porter -> of, snowball -> of
+Liberty: porter -> liberti, snowball -> liberti
+You: porter -> you, snowball -> you
+can: porter -> can, snowball -> can
+think: porter -> think, snowball -> think
+what: porter -> what, snowball -> what
+you: porter -> you, snowball -> you
+want: porter -> want, snowball -> want
+to: porter -> to, snowball -> to
+and: porter -> and, snowball -> and
+say: porter -> say, snowball -> say
+but: porter -> but, snowball -> but
+not: porter -> not, snowball -> not
+always: porter -> alway, snowball -> alway
+do: porter -> do, snowball -> do
+without: porter -> without, snowball -> without
+breaking: porter -> break, snowball -> break
+law.Today: porter -> law.today, snowball -> law.today
+use: porter -> use, snowball -> use
+hard: porter -> hard, snowball -> hard
+drugs: porter -> drug, snowball -> drug
+because: porter -> becaus, snowball -> becaus
+it: porter -> it, snowball -> it
+against: porter -> against, snowball -> against
+law: porter -> law, snowball -> law
+The: porter -> the, snowball -> the
+has: porter -> ha, snowball -> has
+decided: porter -> decid, snowball -> decid
+that: porter -> that, snowball -> that
+are: porter -> are, snowball -> are
+dangerous: porter -> danger, snowball -> danger
+most: porter -> most, snowball -> most
+people: porter -> peopl, snowball -> peopl
+believe: porter -> believ, snowball -> believ
+right: porter -> right, snowball -> right
+Today: porter -> today, snowball -> today
+in: porter -> in, snowball -> in
+many: porter -> mani, snowball -> mani
+places: porter -> place, snowball -> place
+smoke: porter -> smoke, snowball -> smoke
+a: porter -> a, snowball -> a
+cigarette: porter -> cigarett, snowball -> cigarett
+street: porter -> street, snowball -> street
+But: porter -> but, snowball -> but
+today: porter -> today, snowball -> today
+sit: porter -> sit, snowball -> sit
+bar: porter -> bar, snowball -> bar
+drink: porter -> drink, snowball -> drink
+beer: porter -> beer, snowball -> beer
+just: porter -> just, snowball -> just
+as: porter -> as, snowball -> as
+long: porter -> long, snowball -> long
+below: porter -> below, snowball -> below
+age: porter -> age, snowball -> age
+limit: porter -> limit, snowball -> limit
+hundred: porter -> hundr, snowball -> hundr
+years: porter -> year, snowball -> year
+ago: porter -> ago, snowball -> ago
+could: porter -> could, snowball -> could
+was: porter -> wa, snowball -> was
+dry: porter -> dri, snowball -> dri
+Alcohol: porter -> alcohol, snowball -> alcohol
+illegal: porter -> illeg, snowball -> illeg
+neither: porter -> neither, snowball -> neither
+nor: porter -> nor, snowball -> nor
+make: porter -> make, snowball -> make
+buy: porter -> buy, snowball -> buy
+import: porter -> import, snowball -> import
+sell: porter -> sell, snowball -> sell
